@@ -12,16 +12,16 @@ const Footer = () => {
     <div className='footer'>
       <div className="footer-icons">
         <a href="https://www.facebook.com/sj.sanjaya.02/">
-        <img src={facebook_icon} alt=""/>
+        <img src={facebook_icon} alt="Facebook"/>
         </a>
         <a href="https://www.instagram.com/sj.sanjayaa_/">
-        <img src={instagram_icon} alt=""/>
+        <img src={instagram_icon} alt="Instagram"/>
         </a>
         <a href="https://github.com/Sanjayaa02/">
-        <img src={github_icon} alt=""/>
+        <img src={github_icon} alt="GitHub"/>
         </a>
-        <a href="https://www.linkedin.com/in/sanjayakumar-nayak/">
-        <img src={linkedin_icon} alt=""/>
+        <a href="https://www.linkedin.com/in/sanjayyaa-kumar-nayak/">
+        <img src={linkedin_icon} alt="Linkedin"/>
         </a>
       </div>
       <ul>
